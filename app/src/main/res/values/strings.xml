@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <!-- menu -->
+    <string name="manage_cities">Manage cities</string>
+    <string name="recently_viewed">Recently viewed</string>
+    <!-- /menu -->
+
+    <!-- activity_main -->
+    <string name="ti_weather">Weather</string>
+    <string name="ti_forecast">Forecast</string>
+    <!-- activity_main -->
+
+    <!-- fragment_weather -->
+    <string name="tv_location">tv_location</string>
+    <string name="iv_icon">iv_icon</string>
+    <string name="tv_temp">tv_temp</string>
+    <string name="tv_temp_max_min">tv_temp_max_min</string>
+    <string name="feels_like">Feels like</string>
+    <string name="tv_feels_like">tv_feels_like</string>
+    <string name="dt">Last updated</string>
+    <string name="tv_dt">tv_dt</string>
+    <string name="b_details">Details</string>
+    <!-- /fragment_weather -->
+
+    <!-- fragment_forecast -->
+    <string name="tv_coord">tv_coord</string>
+    <!-- /fragment_forecast -->
+
+    <!-- activity_details -->
+    <string name="details">Details</string>
+    <string name="pressure">Pressure:</string>
+    <string name="tv_pressure">tv_pressure</string>
+    <string name="humidity">Humidity:</string>
+    <string name="tv_humidity">tv_humidity</string>
+    <string name="visibility">Visibility:</string>
+    <string name="tv_visibility">tv_visibility</string>
+    <string name="all">Cloudiness:</string>
+    <string name="tv_all">tv_all</string>
+    <string name="speed">Wind speed:</string>
+    <string name="tv_speed">tv_speed</string>
+    <string name="deg">Wind direction:</string>
+    <string name="tv_deg">tv_deg</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="tv_sunrise">tv_sunrise</string>
+    <string name="sunset">Sunset:</string>
+    <string name="tv_sunset">tv_sunset</string>
+    <string name="b_back">Back</string>
+    <!-- /activity_details -->
+
+    <!-- activity_manage_cities -->
+    <string name="msb_manage_cities">Search cities</string>
+    <string name="b_set_as_default">Set as default</string>
+    <!-- /activity_manage_cities -->
+
+    <!-- card_city -->
+    <string name="tv_name">tv_name</string>
+    <!-- /card_city -->
+
+    <!-- WeatherFragment -->
+    <string name="north">North</string>
+    <string name="north_northeast">North/Northeast</string>
+    <string name="northeast">Northeast</string>
+    <string name="east_northeast">East/Northeast</string>
+    <string name="east">East</string>
+    <string name="east_southeast">East/Southeast</string>
+    <string name="southeast">Southeast</string>
+    <string name="south_southeast">South/Southeast</string>
+    <string name="south">South</string>
+    <string name="south_southwest">South/Southwest</string>
+    <string name="southwest">Southwest</string>
+    <string name="west_southwest">West/Southwest</string>
+    <string name="west">West</string>
+    <string name="west_northwest">West/Northwest</string>
+    <string name="northwest">Northwest</string>
+    <string name="north_northwest">North/Northwest</string>
+    <!-- /WeatherFragment -->
+
+    <!-- activity_forecast_details -->
+    <string name="sea_level">Sea level pressure:</string>
+    <string name="tv_sea_level">tv_sea_level</string>
+    <string name="grnd_level">Ground level pressure:</string>
+    <string name="tv_grnd_level">tv_grnd_level</string>
+    <string name="temp_kf">temp_kf</string>
+    <string name="tv_temp_kf">tv_temp_kf</string>
+    <!-- /activity_forecast_details -->
+</resources>
